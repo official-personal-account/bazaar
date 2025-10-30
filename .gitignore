@@ -20,7 +20,6 @@ node_modules
 .DS_Store
 *.pem
 .env
-example.env
 .env.example
 .env.local
 .env.development.local
